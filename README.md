@@ -1,2 +1,1 @@
-# LP2
-Avance en clase
+# LP2-2025-GUS1
